@@ -39,47 +39,6 @@
       }
     },
     {
-      "name": "Fahrschule Wiegand",
-      "locations": [
-        {
-          "address": "Am Kettnersbusch 31, 51379 Leverkusen",
-          "phone_numbers": [
-            "021713428650"
-          ],
-          "office_hours": {},
-          "theory_lesson_location": null
-        },
-        {
-          "address": "Opladener Platz 3, 51379 Leverkusen",
-          "phone_numbers": [
-            "021713428650"
-          ],
-          "office_hours": {},
-          "theory_lesson_location": null
-        }
-      ],
-      "contact": {
-        "email": null,
-        "website": "https://verkehrstrainer.com/",
-        "main_phone": null,
-        "mobile_phone": null
-      },
-      "general_opening_hours": [],
-      "classes_offered": [],
-      "special_courses": [],
-      "reviews_summary": {
-        "average_rating": 4.8,
-        "number_of_reviews": null,
-        "positive_themes": [
-          "serious and nice driving school",
-          "excellent driving instruction",
-          "very safe service"
-        ],
-        "negative_themes": []
-      },
-      "status": "Does not exist anymore"
-    },
-    {
       "name": "Fahrschule Simple Drive",
       "locations": [
         {
