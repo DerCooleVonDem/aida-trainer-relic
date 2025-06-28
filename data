@@ -4,7 +4,8 @@
       "name": "Fahrschule Laubach",
       "locations": [
         {
-          "address": null,
+          "address": "Hitdorfer Str. 164, 51371 Leverkusen",
+          "coordinates": "51.0602595,6.9172057",
           "phone_numbers": [],
           "office_hours": {},
           "theory_lesson_location": null
@@ -75,13 +76,29 @@
           "very safe service"
         ],
         "negative_themes": []
-      }
+      },
+      "status": "Does not exist anymore"
     },
     {
-      "name": "Fahrschule Simple-Drive",
+      "name": "Fahrschule Simple Drive",
       "locations": [
         {
+          "address": "Küppersteger Str. 2, 51373 Leverkusen",
+          "coordinates": "51.0464071,6.993823",
+          "phone_numbers": [],
+          "office_hours": {},
+          "theory_lesson_location": null
+        },
+        {
+          "address": "Moosweg 1, 51377 Leverkusen",
+          "coordinates": "51.0315348,7.0138185",
+          "phone_numbers": [],
+          "office_hours": {},
+          "theory_lesson_location": null
+        },
+        {
           "address": "Bergische Landstraße 14, 51375 Leverkusen",
+          "coordinates": "51.0316173,6.9341599",
           "phone_numbers": [
             "021469053160",
             "01792319093"
@@ -119,7 +136,8 @@
       "name": "Fahrschule Wolfgang Kemper",
       "locations": [
         {
-          "address": null,
+          "address": "Kölner Str. 102, 51379 Leverkusen",
+          "coordinates": "51.0611718,7.0010718",
           "phone_numbers": [],
           "office_hours": {},
           "theory_lesson_location": null
@@ -148,6 +166,7 @@
       "locations": [
         {
           "address": "Berliner Platz 7, 51379 Leverkusen",
+          "coordinates": "51.0706459,6.9976883",
           "phone_numbers": [
             "02171345705"
           ],
@@ -156,9 +175,24 @@
         },
         {
           "address": "Carl-von-Ossietzky-Straße 11, 51377 Leverkusen",
+          "coordinates": "51.0497488,7.0600353",
           "phone_numbers": [
             "021492102"
           ],
+          "office_hours": {},
+          "theory_lesson_location": null
+        },
+        {
+          "address": "Altenberger-Dom-Straße 179, 51467 Bergisch Gladbach",
+          "coordinates": "51.0186173,7.0798969",
+          "phone_numbers": [],
+          "office_hours": {},
+          "theory_lesson_location": null
+        },
+        {
+          "address": "Opladener Str. 15, 51375 Leverkusen",
+          "coordinates": "51.0379457,7.0501046",
+          "phone_numbers": [],
           "office_hours": {},
           "theory_lesson_location": null
         }
@@ -193,7 +227,8 @@
       "name": "Fahrschule Weser",
       "locations": [
         {
-          "address": null,
+          "address": "Stixchesstraße 52, 51377 Leverkusen",
+          "coordinates": "51.0285357,7.0106967",
           "phone_numbers": [],
           "office_hours": {
             "Monday": "10:00 - 13:00 Uhr",
@@ -236,10 +271,11 @@
       }
     },
     {
-      "name": "Fahrschule Bodo Henkel GmbH",
+      "name": "Fahrschule Bodo Henkel",
       "locations": [
         {
-          "address": null,
+          "address": "Lützenkirchener Str. 190a, 51381 Leverkusen",
+          "coordinates": "51.0660936,7.0256852",
           "phone_numbers": [],
           "office_hours": {
             "Monday": "16:30 - 19:00 Uhr",
@@ -276,7 +312,8 @@
           "theory_lesson_location": null
         },
         {
-          "address": "Rathenaustraße 135, 51373 Leverkusen-Wiesdorf",
+          "address": "Rathenaustraße 135, 51373 Leverkusen",
+          "coordinates": "51.0351478,6.9880999",
           "phone_numbers": [
             "021483263040"
           ],
@@ -329,8 +366,15 @@
       }
     },
     {
-      "name": "Fahrschule & Berufskraftfahrerschule Westermann GmbH",
+      "name": "Fahrschule & Berufskraftfahrschule Westermann",
       "locations": [
+        {
+          "address": "Quettinger Str. 194, 51381 Leverkusen",
+          "coordinates": "51.0209187,6.7519201",
+          "phone_numbers": [],
+          "office_hours": {},
+          "theory_lesson_location": null
+        },
         {
           "address": "Peter-Neuenheuser-Str. 1, 51379 Leverkusen",
           "phone_numbers": [
@@ -373,10 +417,11 @@
       }
     },
     {
-      "name": "Fahrschule Christoph Walgenbach GmbH",
+      "name": "Fahrschule Christoph Walgenbach",
       "locations": [
         {
-          "address": "Opladener Platz 3, 51379 Leverkusen",
+          "address": "Opladener Pl. 3, 51379 Leverkusen",
+          "coordinates": "51.0639191,7.0005433",
           "phone_numbers": [
             "021420293911"
           ],
@@ -430,7 +475,8 @@
       "name": "Fahrschule Jessicars Fahrschule Inh. Jessica Richartz",
       "locations": [
         {
-          "address": null,
+          "address": "Bismarckstraße 257, 51373 Leverkusen",
+          "coordinates": "51.0316789,7.0056803",
           "phone_numbers": [],
           "office_hours": {},
           "theory_lesson_location": null
@@ -471,7 +517,8 @@
       "name": "Fahrschule Vetter",
       "locations": [
         {
-          "address": "Am Kettnersbusch 31, 51379 Leverkusen-Opladen",
+          "address": "Am Kettnersbusch 31, 51379 Leverkusen",
+          "coordinates": "51.0565295,6.9960021",
           "phone_numbers": [
             "021715808588",
             "01786733572"
@@ -507,7 +554,8 @@
       "name": "Thomas' Fahrschule",
       "locations": [
         {
-          "address": null,
+          "address": "Lützenkirchener Str. 411, 51381 Leverkusen",
+          "coordinates": "51.0652717,7.0529363",
           "phone_numbers": [],
           "office_hours": {
             "Monday": "17:00 - 19:00 Uhr",
@@ -550,6 +598,7 @@
       "locations": [
         {
           "address": "Kalkstraße 28, 51377 Leverkusen",
+          "coordinates": "50.9911207,6.788542",
           "phone_numbers": [
             "021489080110"
           ],
