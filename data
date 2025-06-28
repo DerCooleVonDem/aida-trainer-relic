@@ -1,5 +1,11 @@
 {
-  "leverkusen_driving_schools":,
+  "leverkusen_driving_schools": [
+    {
+      "name": "Fahrschule Laubach",
+      "locations": [
+        {
+          "address": null,
+          "phone_numbers": [],
           "office_hours": {},
           "theory_lesson_location": null
         }
@@ -10,8 +16,8 @@
         "main_phone": null,
         "mobile_phone": null
       },
-      "general_opening_hours":,
-      "classes_offered":,
+      "general_opening_hours": [],
+      "classes_offered": [],
       "special_courses": [
         "Easter holiday course"
       ],
@@ -57,9 +63,9 @@
         "main_phone": null,
         "mobile_phone": null
       },
-      "general_opening_hours":,
-      "classes_offered":,
-      "special_courses":,
+      "general_opening_hours": [],
+      "classes_offered": [],
+      "special_courses": [],
       "reviews_summary": {
         "average_rating": 4.8,
         "number_of_reviews": null,
@@ -68,15 +74,12 @@
           "excellent driving instruction",
           "very safe service"
         ],
-        "negative_themes":
+        "negative_themes": []
       }
     },
     {
       "name": "Fahrschule Simple-Drive",
-      "locations":,
-          "office_hours": {},
-          "theory_lesson_location": null
-        },
+      "locations": [
         {
           "address": "Bergische Landstraße 14, 51375 Leverkusen",
           "phone_numbers": [
@@ -93,9 +96,9 @@
         "main_phone": null,
         "mobile_phone": null
       },
-      "general_opening_hours":,
-      "classes_offered":,
-      "special_courses":,
+      "general_opening_hours": [],
+      "classes_offered": [],
+      "special_courses": [],
       "reviews_summary": {
         "average_rating": 4.9,
         "number_of_reviews": 1008,
@@ -109,12 +112,15 @@
           "super organized",
           "helpful team"
         ],
-        "negative_themes":
+        "negative_themes": []
       }
     },
     {
       "name": "Fahrschule Wolfgang Kemper",
-      "locations":,
+      "locations": [
+        {
+          "address": null,
+          "phone_numbers": [],
           "office_hours": {},
           "theory_lesson_location": null
         }
@@ -125,24 +131,21 @@
         "main_phone": null,
         "mobile_phone": null
       },
-      "general_opening_hours":,
-      "classes_offered":,
+      "general_opening_hours": [],
+      "classes_offered": [],
       "special_courses": [
         "Intensivkurse"
       ],
       "reviews_summary": {
         "average_rating": 4.4,
         "number_of_reviews": 35,
-        "positive_themes":,
-        "negative_themes":
+        "positive_themes": [],
+        "negative_themes": []
       }
     },
     {
       "name": "Fahrschule Moorkamp GbR",
-      "locations":,
-          "office_hours": {},
-          "theory_lesson_location": null
-        },
+      "locations": [
         {
           "address": "Berliner Platz 7, 51379 Leverkusen",
           "phone_numbers": [
@@ -166,9 +169,9 @@
         "main_phone": null,
         "mobile_phone": null
       },
-      "general_opening_hours":,
-      "classes_offered":,
-      "special_courses":,
+      "general_opening_hours": [],
+      "classes_offered": [],
+      "special_courses": [],
       "reviews_summary": {
         "average_rating": 4.6,
         "number_of_reviews": 56,
@@ -188,7 +191,10 @@
     },
     {
       "name": "Fahrschule Weser",
-      "locations":,
+      "locations": [
+        {
+          "address": null,
+          "phone_numbers": [],
           "office_hours": {
             "Monday": "10:00 - 13:00 Uhr",
             "Tuesday": "17:00 - 19:00 Uhr",
@@ -206,8 +212,8 @@
         "main_phone": null,
         "mobile_phone": null
       },
-      "general_opening_hours":,
-      "classes_offered":,
+      "general_opening_hours": [],
+      "classes_offered": [],
       "special_courses": [
         "Compact courses during holidays"
       ],
@@ -226,12 +232,15 @@
           "professional and competent staff",
           "helpful and supportive"
         ],
-        "negative_themes":
+        "negative_themes": []
       }
     },
     {
       "name": "Fahrschule Bodo Henkel GmbH",
-      "locations":,
+      "locations": [
+        {
+          "address": null,
+          "phone_numbers": [],
           "office_hours": {
             "Monday": "16:30 - 19:00 Uhr",
             "Tuesday": "16:30 - 19:00 Uhr",
@@ -247,14 +256,14 @@
         "main_phone": null,
         "mobile_phone": null
       },
-      "general_opening_hours":,
-      "classes_offered":,
-      "special_courses":,
+      "general_opening_hours": [],
+      "classes_offered": [],
+      "special_courses": [],
       "reviews_summary": {
         "average_rating": 4.7,
         "number_of_reviews": 500,
-        "positive_themes":,
-        "negative_themes":
+        "positive_themes": [],
+        "negative_themes": []
       }
     },
     {
@@ -262,7 +271,7 @@
       "locations": [
         {
           "address": "Gerichtsstr. 9, 51379 Leverkusen-Opladen",
-          "phone_numbers":,
+          "phone_numbers": [],
           "office_hours": {},
           "theory_lesson_location": null
         },
@@ -296,8 +305,8 @@
           "type": "theory"
         }
       ],
-      "classes_offered":,
-      "special_courses":,
+      "classes_offered": [],
+      "special_courses": [],
       "reviews_summary": {
         "average_rating": 4.74,
         "number_of_reviews": 1739,
@@ -321,10 +330,7 @@
     },
     {
       "name": "Fahrschule & Berufskraftfahrerschule Westermann GmbH",
-      "locations":,
-          "office_hours": {},
-          "theory_lesson_location": null
-        },
+      "locations": [
         {
           "address": "Peter-Neuenheuser-Str. 1, 51379 Leverkusen",
           "phone_numbers": [
@@ -335,7 +341,7 @@
         },
         {
           "address": "Leverkusen-Rheindorf",
-          "phone_numbers":,
+          "phone_numbers": [],
           "office_hours": {},
           "theory_lesson_location": null
         }
@@ -346,9 +352,9 @@
         "main_phone": null,
         "mobile_phone": null
       },
-      "general_opening_hours":,
-      "classes_offered":,
-      "special_courses":,
+      "general_opening_hours": [],
+      "classes_offered": [],
+      "special_courses": [],
       "reviews_summary": {
         "average_rating": 4.9,
         "number_of_reviews": null,
@@ -363,7 +369,7 @@
           "effective teaching",
           "safe, fast, and flexible education"
         ],
-        "negative_themes":
+        "negative_themes": []
       }
     },
     {
@@ -401,9 +407,9 @@
         "main_phone": null,
         "mobile_phone": null
       },
-      "general_opening_hours":,
-      "classes_offered":,
-      "special_courses":,
+      "general_opening_hours": [],
+      "classes_offered": [],
+      "special_courses": [],
       "reviews_summary": {
         "average_rating": 4.9,
         "number_of_reviews": null,
@@ -417,12 +423,15 @@
           "supportive and takes time for students",
           "gives courage and positive energy"
         ],
-        "negative_themes":
+        "negative_themes": []
       }
     },
     {
       "name": "Fahrschule Jessicars Fahrschule Inh. Jessica Richartz",
-      "locations":,
+      "locations": [
+        {
+          "address": null,
+          "phone_numbers": [],
           "office_hours": {},
           "theory_lesson_location": null
         }
@@ -433,8 +442,8 @@
         "main_phone": null,
         "mobile_phone": null
       },
-      "general_opening_hours":,
-      "classes_offered":,
+      "general_opening_hours": [],
+      "classes_offered": [],
       "special_courses": [
         "Classic or automatic car training"
       ],
@@ -455,7 +464,7 @@
           "flexible scheduling",
           "family-like approach"
         ],
-        "negative_themes":
+        "negative_themes": []
       }
     },
     {
@@ -484,19 +493,22 @@
         "main_phone": null,
         "mobile_phone": null
       },
-      "general_opening_hours":,
-      "classes_offered":,
-      "special_courses":,
+      "general_opening_hours": [],
+      "classes_offered": [],
+      "special_courses": [],
       "reviews_summary": {
         "average_rating": 4.9,
         "number_of_reviews": null,
-        "positive_themes":,
-        "negative_themes":
+        "positive_themes": [],
+        "negative_themes": []
       }
     },
     {
       "name": "Thomas' Fahrschule",
-      "locations":,
+      "locations": [
+        {
+          "address": null,
+          "phone_numbers": [],
           "office_hours": {
             "Monday": "17:00 - 19:00 Uhr",
             "Tuesday": "17:00 - 19:00 Uhr",
@@ -512,9 +524,9 @@
         "main_phone": null,
         "mobile_phone": null
       },
-      "general_opening_hours":,
-      "classes_offered":,
-      "special_courses":,
+      "general_opening_hours": [],
+      "classes_offered": [],
+      "special_courses": [],
       "reviews_summary": {
         "average_rating": null,
         "number_of_reviews": null,
@@ -554,14 +566,14 @@
         "main_phone": null,
         "mobile_phone": null
       },
-      "general_opening_hours":,
-      "classes_offered":,
-      "special_courses":,
+      "general_opening_hours": [],
+      "classes_offered": [],
+      "special_courses": [],
       "reviews_summary": {
         "average_rating": 4.0,
         "number_of_reviews": null,
-        "positive_themes":,
-        "negative_themes":
+        "positive_themes": [],
+        "negative_themes": []
       }
     }
   ]
