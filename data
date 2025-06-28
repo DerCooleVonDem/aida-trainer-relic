@@ -6,7 +6,9 @@
         {
           "address": "Hitdorfer Str. 164, 51371 Leverkusen",
           "coordinates": "51.0602595,6.9172057",
-          "phone_numbers": [],
+          "phone_numbers": [
+            "0217301739"
+          ],
           "office_hours": {},
           "theory_lesson_location": null
         }
@@ -17,21 +19,32 @@
         "main_phone": null,
         "mobile_phone": null
       },
-      "general_opening_hours": [],
-      "classes_offered": [],
+      "general_opening_hours": [
+        {
+          "day_of_week": "Monday - Saturday",
+          "time_range": "Open",
+          "type": "general"
+        }
+      ],
+      "classes_offered": [
+        "Class B (Car)"
+      ],
       "special_courses": [
         "Easter holiday course"
       ],
       "reviews_summary": {
-        "average_rating": null,
-        "number_of_reviews": null,
+        "average_rating": 5.0,
+        "number_of_reviews": 59,
         "positive_themes": [
           "friendly instructor and staff",
           "family-like atmosphere",
           "good price",
           "no hidden costs",
           "entertaining and engaging lessons",
-          "good preparation for theory and practical exams"
+          "good preparation for theory and practical exams",
+          "patient and motivating instructors",
+          "safe and confident learning",
+          "professional and supportive"
         ],
         "negative_themes": [
           "instructor makes students feel bad"
@@ -144,15 +157,22 @@
         {
           "address": "Altenberger-Dom-Straße 179, 51467 Bergisch Gladbach",
           "coordinates": "51.0186173,7.0798969",
-          "phone_numbers": [],
+          "phone_numbers": [
+            "022029795050"
+          ],
           "office_hours": {},
           "theory_lesson_location": null
         },
         {
           "address": "Opladener Str. 15, 51375 Leverkusen",
           "coordinates": "51.0379457,7.0501046",
-          "phone_numbers": [],
-          "office_hours": {},
+          "phone_numbers": [
+            "02145004570"
+          ],
+          "office_hours": {
+            "Monday": "17:00 - 19:00 Uhr",
+            "Tuesday": "17:00 - 19:00 Uhr"
+          },
           "theory_lesson_location": null
         }
       ],
@@ -163,7 +183,16 @@
         "mobile_phone": null
       },
       "general_opening_hours": [],
-      "classes_offered": [],
+      "classes_offered": [
+        "Class B (Car)",
+        "Class BE (Car with trailer)",
+        "Class A (Motorcycle)",
+        "Class A1 (Motorcycle)",
+        "Class A2 (Motorcycle)",
+        "Class AM (Moped)",
+        "Mofa",
+        "B196 (Motorcycle training for B license holders)"
+      ],
       "special_courses": [],
       "reviews_summary": {
         "average_rating": 4.6,
@@ -174,7 +203,9 @@
           "well-prepared for exams",
           "calm and patient instructors",
           "friendly staff",
-          "quick appointment scheduling"
+          "quick appointment scheduling",
+          "highly qualified teachers",
+          "well-organized"
         ],
         "negative_themes": [
           "too many students",
@@ -266,16 +297,16 @@
       "locations": [
         {
           "address": "Gerichtsstr. 9, 51379 Leverkusen-Opladen",
-          "phone_numbers": [],
+          "phone_numbers": [
+            "021483263040"
+          ],
           "office_hours": {},
           "theory_lesson_location": null
         },
         {
           "address": "Rathenaustraße 135, 51373 Leverkusen",
           "coordinates": "51.0351478,6.9880999",
-          "phone_numbers": [
-            "021483263040"
-          ],
+          "phone_numbers": [],
           "office_hours": {
             "Tuesday": "11:00 - 17:00 Uhr",
             "Thursday": "11:00 - 17:00 Uhr"
@@ -301,8 +332,27 @@
           "type": "theory"
         }
       ],
-      "classes_offered": [],
-      "special_courses": [],
+      "classes_offered": [
+        "Class B (Car) - manual and automatic",
+        "Class A (Motorcycle)",
+        "Class A1 (Motorcycle)",
+        "Class A2 (Motorcycle)",
+        "Class AM (Moped)",
+        "Class C/CE (Truck)",
+        "Class D/DE (Bus)",
+        "Class L/T (Tractor)",
+        "Class BE (Car with trailer)",
+        "B197 (automatic with manual competence)",
+        "BF17 (accompanied driving at 17)",
+        "B196 (Motorcycle training for B license holders)"
+      ],
+      "special_courses": [
+        "Intensive courses",
+        "Refresher courses (ASF)",
+        "Further training for professional drivers (BKrFQG)",
+        "Dangerous goods (ADR)",
+        "Forklift"
+      ],
       "reviews_summary": {
         "average_rating": 4.74,
         "number_of_reviews": 1739,
@@ -330,7 +380,9 @@
         {
           "address": "Quettinger Str. 194, 51381 Leverkusen",
           "coordinates": "51.0209187,6.7519201",
-          "phone_numbers": [],
+          "phone_numbers": [
+            "02171582800"
+          ],
           "office_hours": {},
           "theory_lesson_location": null
         },
@@ -356,7 +408,16 @@
         "mobile_phone": null
       },
       "general_opening_hours": [],
-      "classes_offered": [],
+      "classes_offered": [
+        "Class B (Car)",
+        "Class BE (Car with trailer)",
+        "Class A (Motorcycle)",
+        "Class A1 (Motorcycle)",
+        "Class A2 (Motorcycle)",
+        "Class AM (Moped)",
+        "Mofa",
+        "B196 (Motorcycle training for B license holders)"
+      ],
       "special_courses": [],
       "reviews_summary": {
         "average_rating": 4.9,
@@ -370,7 +431,9 @@
           "well-organized",
           "good communication",
           "effective teaching",
-          "safe, fast, and flexible education"
+          "safe, fast, and flexible education",
+          "24/7 reachable",
+          "empathetic and understanding"
         ],
         "negative_themes": []
       }
@@ -412,8 +475,20 @@
         "mobile_phone": null
       },
       "general_opening_hours": [],
-      "classes_offered": [],
-      "special_courses": [],
+      "classes_offered": [
+        "Class B (Car)",
+        "Class BE (Car with trailer)",
+        "Class A (Motorcycle)",
+        "Class A1 (Motorcycle)",
+        "Class A2 (Motorcycle)",
+        "Class AM (Moped)",
+        "Mofa",
+        "B196 (Motorcycle training for B license holders)",
+        "BF17 (accompanied driving at 17)"
+      ],
+      "special_courses": [
+        "Intensive courses"
+      ],
       "reviews_summary": {
         "average_rating": 4.9,
         "number_of_reviews": null,
@@ -425,7 +500,9 @@
           "competent and humorous instruction",
           "calm and patient instructors",
           "supportive and takes time for students",
-          "gives courage and positive energy"
+          "gives courage and positive energy",
+          "pleasant and successful learning",
+          "flexible scheduling"
         ],
         "negative_themes": []
       }
@@ -436,7 +513,9 @@
         {
           "address": "Bismarckstraße 257, 51373 Leverkusen",
           "coordinates": "51.0316789,7.0056803",
-          "phone_numbers": [],
+          "phone_numbers": [
+            "015734315684"
+          ],
           "office_hours": {},
           "theory_lesson_location": null
         }
@@ -448,7 +527,13 @@
         "mobile_phone": null
       },
       "general_opening_hours": [],
-      "classes_offered": [],
+      "classes_offered": [
+        "Class B (Car) - manual and automatic",
+        "Class A (Motorcycle)",
+        "Class A1 (Motorcycle)",
+        "Class A2 (Motorcycle)",
+        "BF17 (accompanied driving at 17)"
+      ],
       "special_courses": [
         "Classic or automatic car training"
       ],
@@ -515,7 +600,10 @@
         {
           "address": "Lützenkirchener Str. 411, 51381 Leverkusen",
           "coordinates": "51.0652717,7.0529363",
-          "phone_numbers": [],
+          "phone_numbers": [
+            "021713663864",
+            "015770363126"
+          ],
           "office_hours": {
             "Monday": "17:00 - 19:00 Uhr",
             "Tuesday": "17:00 - 19:00 Uhr",
@@ -569,19 +657,35 @@
         }
       ],
       "contact": {
-        "email": null,
-        "website": null,
+        "email": "kontakt@peters-fahrschule.eu",
+        "website": "https://peters-fahrschule.eu/",
         "main_phone": null,
         "mobile_phone": null
       },
       "general_opening_hours": [],
-      "classes_offered": [],
+      "classes_offered": [
+        "Class B (Car)",
+        "B196 (Motorcycle training for B license holders)"
+      ],
       "special_courses": [],
       "reviews_summary": {
         "average_rating": 4.0,
         "number_of_reviews": null,
-        "positive_themes": [],
-        "negative_themes": []
+        "positive_themes": [
+          "friendly and experienced staff",
+          "competent instructors",
+          "good exam preparation",
+          "fun driving lessons",
+          "patient instructors",
+          "flexible appointment scheduling",
+          "good value for money",
+          "focus on student safety and individual needs"
+        ],
+        "negative_themes": [
+          "unresponsive to inquiries",
+          "office sometimes closed",
+          "issues with specific instructors"
+        ]
       }
     }
   ]
