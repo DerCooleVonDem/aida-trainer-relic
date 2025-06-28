@@ -1,0 +1,568 @@
+{
+  "leverkusen_driving_schools":,
+          "office_hours": {},
+          "theory_lesson_location": null
+        }
+      ],
+      "contact": {
+        "email": "fahrschulelaubach@web.de",
+        "website": "https://www.fahrschule-laubach.de/",
+        "main_phone": null,
+        "mobile_phone": null
+      },
+      "general_opening_hours":,
+      "classes_offered":,
+      "special_courses": [
+        "Easter holiday course"
+      ],
+      "reviews_summary": {
+        "average_rating": null,
+        "number_of_reviews": null,
+        "positive_themes": [
+          "friendly instructor and staff",
+          "family-like atmosphere",
+          "good price",
+          "no hidden costs",
+          "entertaining and engaging lessons",
+          "good preparation for theory and practical exams"
+        ],
+        "negative_themes": [
+          "instructor makes students feel bad"
+        ]
+      }
+    },
+    {
+      "name": "Fahrschule Wiegand",
+      "locations": [
+        {
+          "address": "Am Kettnersbusch 31, 51379 Leverkusen",
+          "phone_numbers": [
+            "021713428650"
+          ],
+          "office_hours": {},
+          "theory_lesson_location": null
+        },
+        {
+          "address": "Opladener Platz 3, 51379 Leverkusen",
+          "phone_numbers": [
+            "021713428650"
+          ],
+          "office_hours": {},
+          "theory_lesson_location": null
+        }
+      ],
+      "contact": {
+        "email": null,
+        "website": "https://verkehrstrainer.com/",
+        "main_phone": null,
+        "mobile_phone": null
+      },
+      "general_opening_hours":,
+      "classes_offered":,
+      "special_courses":,
+      "reviews_summary": {
+        "average_rating": 4.8,
+        "number_of_reviews": null,
+        "positive_themes": [
+          "serious and nice driving school",
+          "excellent driving instruction",
+          "very safe service"
+        ],
+        "negative_themes":
+      }
+    },
+    {
+      "name": "Fahrschule Simple-Drive",
+      "locations":,
+          "office_hours": {},
+          "theory_lesson_location": null
+        },
+        {
+          "address": "Bergische Landstraße 14, 51375 Leverkusen",
+          "phone_numbers": [
+            "021469053160",
+            "01792319093"
+          ],
+          "office_hours": {},
+          "theory_lesson_location": null
+        }
+      ],
+      "contact": {
+        "email": "info@fahrschule-simpledrive.de",
+        "website": "https://fahrschule-simpledrive.de/",
+        "main_phone": null,
+        "mobile_phone": null
+      },
+      "general_opening_hours":,
+      "classes_offered":,
+      "special_courses":,
+      "reviews_summary": {
+        "average_rating": 4.9,
+        "number_of_reviews": 1008,
+        "positive_themes": [
+          "patient instructors",
+          "professional",
+          "modern cars",
+          "cool and relaxed instructors",
+          "well-explained lessons",
+          "comfortable and well-supported feeling",
+          "super organized",
+          "helpful team"
+        ],
+        "negative_themes":
+      }
+    },
+    {
+      "name": "Fahrschule Wolfgang Kemper",
+      "locations":,
+          "office_hours": {},
+          "theory_lesson_location": null
+        }
+      ],
+      "contact": {
+        "email": null,
+        "website": "https://www.fahrschule-kemper.de/",
+        "main_phone": null,
+        "mobile_phone": null
+      },
+      "general_opening_hours":,
+      "classes_offered":,
+      "special_courses": [
+        "Intensivkurse"
+      ],
+      "reviews_summary": {
+        "average_rating": 4.4,
+        "number_of_reviews": 35,
+        "positive_themes":,
+        "negative_themes":
+      }
+    },
+    {
+      "name": "Fahrschule Moorkamp GbR",
+      "locations":,
+          "office_hours": {},
+          "theory_lesson_location": null
+        },
+        {
+          "address": "Berliner Platz 7, 51379 Leverkusen",
+          "phone_numbers": [
+            "02171345705"
+          ],
+          "office_hours": {},
+          "theory_lesson_location": null
+        },
+        {
+          "address": "Carl-von-Ossietzky-Straße 11, 51377 Leverkusen",
+          "phone_numbers": [
+            "021492102"
+          ],
+          "office_hours": {},
+          "theory_lesson_location": null
+        }
+      ],
+      "contact": {
+        "email": "info@fahrschule-moorkamp.com",
+        "website": "https://fahrschule-moorkamp.com/",
+        "main_phone": null,
+        "mobile_phone": null
+      },
+      "general_opening_hours":,
+      "classes_offered":,
+      "special_courses":,
+      "reviews_summary": {
+        "average_rating": 4.6,
+        "number_of_reviews": 56,
+        "positive_themes": [
+          "competent team",
+          "fun and educational driving lessons",
+          "well-prepared for exams",
+          "calm and patient instructors",
+          "friendly staff",
+          "quick appointment scheduling"
+        ],
+        "negative_themes": [
+          "too many students",
+          "long waiting times for lessons"
+        ]
+      }
+    },
+    {
+      "name": "Fahrschule Weser",
+      "locations":,
+          "office_hours": {
+            "Monday": "10:00 - 13:00 Uhr",
+            "Tuesday": "17:00 - 19:00 Uhr",
+            "Wednesday": "17:00 - 19:00 Uhr",
+            "Thursday": "17:00 - 19:00 Uhr",
+            "Friday": "10:00 - 13:00 Uhr",
+            "Note": "Core hours extendable"
+          },
+          "theory_lesson_location": null
+        }
+      ],
+      "contact": {
+        "email": "fahrschule-weser@gmx.de",
+        "website": "https://www.fahrschule-weser.de/",
+        "main_phone": null,
+        "mobile_phone": null
+      },
+      "general_opening_hours":,
+      "classes_offered":,
+      "special_courses": [
+        "Compact courses during holidays"
+      ],
+      "reviews_summary": {
+        "average_rating": 4.7,
+        "number_of_reviews": 61,
+        "positive_themes": [
+          "super driving school",
+          "recommended",
+          "interesting and humorous theory classes",
+          "fun driving lessons",
+          "fun and easy-going instructors",
+          "learned a lot",
+          "good price-performance ratio",
+          "dedicated family team",
+          "professional and competent staff",
+          "helpful and supportive"
+        ],
+        "negative_themes":
+      }
+    },
+    {
+      "name": "Fahrschule Bodo Henkel GmbH",
+      "locations":,
+          "office_hours": {
+            "Monday": "16:30 - 19:00 Uhr",
+            "Tuesday": "16:30 - 19:00 Uhr",
+            "Wednesday": "16:30 - 19:00 Uhr",
+            "Thursday": "16:30 - 19:00 Uhr"
+          },
+          "theory_lesson_location": null
+        }
+      ],
+      "contact": {
+        "email": "info@fahrschule-bodohenkel.de",
+        "website": "http://www.fahrschule-bodohenkel.de",
+        "main_phone": null,
+        "mobile_phone": null
+      },
+      "general_opening_hours":,
+      "classes_offered":,
+      "special_courses":,
+      "reviews_summary": {
+        "average_rating": 4.7,
+        "number_of_reviews": 500,
+        "positive_themes":,
+        "negative_themes":
+      }
+    },
+    {
+      "name": "123 Fahrschule",
+      "locations": [
+        {
+          "address": "Gerichtsstr. 9, 51379 Leverkusen-Opladen",
+          "phone_numbers":,
+          "office_hours": {},
+          "theory_lesson_location": null
+        },
+        {
+          "address": "Rathenaustraße 135, 51373 Leverkusen-Wiesdorf",
+          "phone_numbers": [
+            "021483263040"
+          ],
+          "office_hours": {
+            "Tuesday": "11:00 - 17:00 Uhr",
+            "Thursday": "11:00 - 17:00 Uhr"
+          },
+          "theory_lesson_location": "Köln-Holweide (Bergisch Gladbacher Str. 457, 51067 Köln) or Köln-Nippes (Merheimer Str. 100, 50733 Köln)"
+        }
+      ],
+      "contact": {
+        "email": null,
+        "website": "https://www.123fahrschule.de/",
+        "main_phone": null,
+        "mobile_phone": null
+      },
+      "general_opening_hours": [
+        {
+          "day_of_week": "Online",
+          "time_range": "24/7",
+          "type": "registration"
+        },
+        {
+          "day_of_week": "Monday - Friday",
+          "time_range": "17:00 - 20:00 Uhr",
+          "type": "theory"
+        }
+      ],
+      "classes_offered":,
+      "special_courses":,
+      "reviews_summary": {
+        "average_rating": 4.74,
+        "number_of_reviews": 1739,
+        "positive_themes": [
+          "competent employees",
+          "best driving instructors (e.g., Elmedin)",
+          "patience",
+          "clear explanations",
+          "relaxed and humorous teaching style",
+          "modern and uncomplicated approach",
+          "professional and friendly staff",
+          "good preparation for exams",
+          "easy online registration",
+          "practical and user-friendly app",
+          "good value for money"
+        ],
+        "negative_themes": [
+          "long waiting times for theory and practical lessons"
+        ]
+      }
+    },
+    {
+      "name": "Fahrschule & Berufskraftfahrerschule Westermann GmbH",
+      "locations":,
+          "office_hours": {},
+          "theory_lesson_location": null
+        },
+        {
+          "address": "Peter-Neuenheuser-Str. 1, 51379 Leverkusen",
+          "phone_numbers": [
+            "021715828050"
+          ],
+          "office_hours": {},
+          "theory_lesson_location": null
+        },
+        {
+          "address": "Leverkusen-Rheindorf",
+          "phone_numbers":,
+          "office_hours": {},
+          "theory_lesson_location": null
+        }
+      ],
+      "contact": {
+        "email": "info@fahrschule-westermann.de",
+        "website": "https://www.fahrschule-westermann.de/",
+        "main_phone": null,
+        "mobile_phone": null
+      },
+      "general_opening_hours":,
+      "classes_offered":,
+      "special_courses":,
+      "reviews_summary": {
+        "average_rating": 4.9,
+        "number_of_reviews": null,
+        "positive_themes": [
+          "best driving school",
+          "professional work",
+          "friendly and patient instructors",
+          "competent and cheerful staff",
+          "comprehensive support",
+          "well-organized",
+          "good communication",
+          "effective teaching",
+          "safe, fast, and flexible education"
+        ],
+        "negative_themes":
+      }
+    },
+    {
+      "name": "Fahrschule Christoph Walgenbach GmbH",
+      "locations": [
+        {
+          "address": "Opladener Platz 3, 51379 Leverkusen",
+          "phone_numbers": [
+            "021420293911"
+          ],
+          "office_hours": {
+            "Monday": "12:00 - 18:00 Uhr",
+            "Tuesday": "13:30 - 18:00 Uhr",
+            "Wednesday": "12:00 - 18:00 Uhr",
+            "Friday": "13:00 - 18:00 Uhr",
+            "Note": "Or by appointment"
+          },
+          "theory_lesson_location": null
+        },
+        {
+          "address": "Nobelstraße 3, 51373 Leverkusen",
+          "phone_numbers": [
+            "021420293911"
+          ],
+          "office_hours": {
+            "Monday": "12:00 - 18:00 Uhr",
+            "Tuesday": "12:00 - 18:00 Uhr"
+          },
+          "theory_lesson_location": null
+        }
+      ],
+      "contact": {
+        "email": null,
+        "website": "https://www.fahrschule-walgenbach.de/",
+        "main_phone": null,
+        "mobile_phone": null
+      },
+      "general_opening_hours":,
+      "classes_offered":,
+      "special_courses":,
+      "reviews_summary": {
+        "average_rating": 4.9,
+        "number_of_reviews": null,
+        "positive_themes": [
+          "overcomes fear of driving",
+          "engaging and not boring theory courses",
+          "group work and discussions in theory",
+          "very friendly and professional team",
+          "competent and humorous instruction",
+          "calm and patient instructors",
+          "supportive and takes time for students",
+          "gives courage and positive energy"
+        ],
+        "negative_themes":
+      }
+    },
+    {
+      "name": "Fahrschule Jessicars Fahrschule Inh. Jessica Richartz",
+      "locations":,
+          "office_hours": {},
+          "theory_lesson_location": null
+        }
+      ],
+      "contact": {
+        "email": null,
+        "website": "https://jessicars-fahrschule.de/",
+        "main_phone": null,
+        "mobile_phone": null
+      },
+      "general_opening_hours":,
+      "classes_offered":,
+      "special_courses": [
+        "Classic or automatic car training"
+      ],
+      "reviews_summary": {
+        "average_rating": 5.0,
+        "number_of_reviews": 212,
+        "positive_themes": [
+          "friendly and patient team",
+          "sincere instructors",
+          "safe and pleasant learning environment",
+          "great time",
+          "good value for money",
+          "engaging and fun theory lessons",
+          "welcoming and approachable",
+          "calm and motivating approach",
+          "perfect preparation for practical exam",
+          "passionate instructors",
+          "flexible scheduling",
+          "family-like approach"
+        ],
+        "negative_themes":
+      }
+    },
+    {
+      "name": "Fahrschule Vetter",
+      "locations": [
+        {
+          "address": "Am Kettnersbusch 31, 51379 Leverkusen-Opladen",
+          "phone_numbers": [
+            "021715808588",
+            "01786733572"
+          ],
+          "office_hours": {
+            "Monday": "12:30 - 17:00 Uhr",
+            "Tuesday": "12:30 - 17:00 Uhr",
+            "Wednesday": "12:30 - 17:00 Uhr",
+            "Thursday": "12:30 - 17:00 Uhr",
+            "Friday": "12:30 - 17:00 Uhr",
+            "Note": "Flexible appointments outside these hours"
+          },
+          "theory_lesson_location": null
+        }
+      ],
+      "contact": {
+        "email": "kontakt@vetter-fahrschule.de",
+        "website": "https://vetter-fahrschule.de/",
+        "main_phone": null,
+        "mobile_phone": null
+      },
+      "general_opening_hours":,
+      "classes_offered":,
+      "special_courses":,
+      "reviews_summary": {
+        "average_rating": 4.9,
+        "number_of_reviews": null,
+        "positive_themes":,
+        "negative_themes":
+      }
+    },
+    {
+      "name": "Thomas' Fahrschule",
+      "locations":,
+          "office_hours": {
+            "Monday": "17:00 - 19:00 Uhr",
+            "Tuesday": "17:00 - 19:00 Uhr",
+            "Wednesday": "17:00 - 19:00 Uhr",
+            "Thursday": "17:00 - 19:00 Uhr"
+          },
+          "theory_lesson_location": null
+        }
+      ],
+      "contact": {
+        "email": "info@thomasfahrschule.com",
+        "website": "https://www.thomasfahrschule.com/",
+        "main_phone": null,
+        "mobile_phone": null
+      },
+      "general_opening_hours":,
+      "classes_offered":,
+      "special_courses":,
+      "reviews_summary": {
+        "average_rating": null,
+        "number_of_reviews": null,
+        "positive_themes": [
+          "very good exam preparation",
+          "meets students at eye level",
+          "calm and clear explanations (even with errors)",
+          "empathetic and supportive",
+          "fun driving lessons",
+          "well-organized",
+          "quick responses to inquiries"
+        ],
+        "negative_themes": [
+          "long response times for inquiries",
+          "issues with specific instructors"
+        ]
+      }
+    },
+    {
+      "name": "Fahrschule Peters",
+      "locations": [
+        {
+          "address": "Kalkstraße 28, 51377 Leverkusen",
+          "phone_numbers": [
+            "021489080110"
+          ],
+          "office_hours": {
+            "Monday": "14:00 - 19:30 Uhr",
+            "Tuesday": "14:00 - [Incomplete]"
+          },
+          "theory_lesson_location": null
+        }
+      ],
+      "contact": {
+        "email": null,
+        "website": null,
+        "main_phone": null,
+        "mobile_phone": null
+      },
+      "general_opening_hours":,
+      "classes_offered":,
+      "special_courses":,
+      "reviews_summary": {
+        "average_rating": 4.0,
+        "number_of_reviews": null,
+        "positive_themes":,
+        "negative_themes":
+      }
+    }
+  ]
+}
